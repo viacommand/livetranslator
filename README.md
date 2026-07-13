@@ -146,7 +146,7 @@ This project is licensed under the MIT License.
 
 Computer Science Engineering Student
 
-GitHub: https://github.com/viacommmand
+GitHub: https://github.com/viacommand
 
 LinkedIn: https://linkedin.com/in/sam-giftson-k
 
